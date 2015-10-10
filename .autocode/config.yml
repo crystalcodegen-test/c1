@@ -1,5 +1,5 @@
-name: crystalcodegen-test/c1
-description: ''
+name: the c1 project
+description: This is a short description.
 author:
   name: Chris Tate
   email: test@crystal.sh
