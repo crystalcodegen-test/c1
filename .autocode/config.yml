@@ -9,4 +9,4 @@ imports:
   crystal/angular: ~0.3.0
   crystal/bower: ~0.4.1
   crystal/npm: ~0.3.1
-url: 'https://google.com'
+url: 'http://example.com'
