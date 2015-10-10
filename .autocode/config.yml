@@ -7,3 +7,5 @@ author:
 copyright: 2015 Chris Tate
 imports:
   crystal/angular: ~0.3.0
+  crystal/bower: ~0.4.1
+  crystal/npm: ~0.3.1
