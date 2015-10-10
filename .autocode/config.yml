@@ -1,10 +1,10 @@
 name: the c1 project
 description: This is a short description...
 author:
-  name: Chris Tate
-  email: test@crystal.sh
-  url: 'http://crystalcodegen.com'
-copyright: 2015 Chris Tate
+  name: Test User
+  email: test@example.com
+  url: 'http://example.com'
+copyright: 2015 Example
 imports:
   crystal/angular: ~0.3.0
   crystal/bower: ~0.4.1
