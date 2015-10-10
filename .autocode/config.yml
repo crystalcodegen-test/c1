@@ -1,7 +1,9 @@
 name: crystalcodegen-test/c1
-description: null
+description: ''
 author:
   name: Chris Tate
   email: test@crystal.sh
   url: 'http://crystalcodegen.com'
 copyright: 2015 Chris Tate
+imports:
+  crystal/angular: ~0.3.0
